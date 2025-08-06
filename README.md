@@ -5,13 +5,6 @@ Este projeto apresenta minha trajetória como **Desenvolvedor Front-End** e **UI
 
 ---
 
-## 🔗 Link de Visualização
-
-[👉 Acesse o portfólio aqui](https://seusite.com.br)  
-*(Substitua pelo link real do seu projeto)*
-
----
-
 ## 🧠 Sobre o Projeto
 
 Este site foi criado para destacar minhas habilidades e experiências na área de desenvolvimento web. Ele é totalmente responsivo, com foco em boas práticas de **UI/UX Design**.
